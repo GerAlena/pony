@@ -1,0 +1,38 @@
+.logo{
+    display: inline-block;
+    vertical-align: middle;
+    height: 128px;
+}
+.title{
+    display: inline-block;
+    vertical-align: middle;
+    font-family: 'Bad Script', cursive;
+    font-size: 36px;
+}
+.list{
+    background: rgb(187, 141, 173);
+    line-height: 25px;
+}
+.list li{
+    list-style: none;
+    display: inline-block;
+    width: 80px; 
+}
+.list li a{
+    display: inline-block;
+    width: 50px;
+}
+.left {
+    display: inline-block;
+    width: 20%;
+}
+.right{
+    vertical-align: top;
+    display: inline-block;
+    width: calc(80%-4px);
+}
+.centr{
+    text-align: center;
+    background: rgb(187, 141, 173);
+    line-height: 25px;
+}
